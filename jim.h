@@ -1,5 +1,4 @@
 // Immediate JSON Serialization Library for generating the binary tree.
-// Source: https://github.com/tsoding/jim/blob/master/jim.h
 #ifndef JIM_H_
 #define JIM_H_
 
